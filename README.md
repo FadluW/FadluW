@@ -1,7 +1,7 @@
 ## Hello! 👋
 Welcome to my GitHub profile.
 
-My name is `Fadlurahman Walid` and I'm working through my road map to becoming a software devloper!
+My name is `Fadlurahman Walid` and I'm working through my road map to becoming a software developer!
 
 - 🔭 I’m currently working on [Bake.gg](https://bake.gg)
 - 🌱 I’m currently learning Next.JS & Kotlin
