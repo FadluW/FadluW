@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hello! 👋
+Welcome to my GitHub profile.
 
+My name is `Fadlurahman Walid` and I'm working through my road map to becoming a software devloper!
+
+- 🔭 I’m currently working on [Bake.gg](https://bake.gg)
+- 🌱 I’m currently learning Next.JS & Kotlin
+- 📫 How to reach me: [fadlu.w@gmail.com](mailto:fadlu.w@gmail.com)
+- 😄 Pronouns: `he/him`
 <!--
 **FadluW/FadluW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
